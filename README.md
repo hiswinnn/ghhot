@@ -8,9 +8,18 @@
 | 周期 | 来源 | 说明 |
 | --- | --- | --- |
 | 今日 / 本周 / 本月 | `https://github.com/trending?since=daily|weekly|monthly` | GitHub 原生 trending，带「周期内新增星数」 |
-| 今年 | GitHub Search API `created:>=一年前`，按星数排序 | trending 没有年度维度，用搜索补位 |
+| 今年 | GitHub Search API `pushed:>=一年前`，按星数排序 | trending 没有年度维度；用「过去一年有活跃提交」+ 总星排序补位 |
 
 每个条目包含：`rank`、`full_name`、`html_url`、`description`、`stars`、`gained`（周期内新增星数，年度为空）、`language`。
+
+### 每档两个榜
+
+日 / 周 / 月三档会同时产出两份列表，同一份 trending 数据算两遍排序，不额外发请求：
+
+- `items` —— **周期热门**，按周期内新增星数排序（trending 页面自身顺序）
+- `star_items` —— **总星榜**，候选池取 trending 全量条目（约 25 条）按总星数重排，而不是只在前 12 条里挪位
+
+年度只有总星口径（GitHub 不提供「某仓库过去一年涨了多少星」的接口），所以**不产出 `star_items`**，前端据此隐藏切换开关。
 
 ## 用法
 
@@ -48,13 +57,19 @@ python3 -m http.server 8000   # 然后打开 http://127.0.0.1:8000/demo/
 {
   "updated_at": 1795193532,
   "ranges": {
-    "day":   { "label": "今日", "items": [ { "rank": 1, "full_name": "owner/repo", "stars": 14000, "gained": 1700, "language": "Python", "html_url": "https://github.com/owner/repo", "description": "..." } ] },
-    "week":  { "label": "本周", "items": [] },
-    "month": { "label": "本月", "items": [] },
+    "day": {
+      "label": "今日",
+      "items": [ { "rank": 1, "full_name": "owner/repo", "stars": 14000, "gained": 1700, "language": "Python", "html_url": "https://github.com/owner/repo", "description": "..." } ],
+      "star_items": [ { "rank": 1, "full_name": "owner/big", "stars": 323754, "gained": 883, "language": "...", "html_url": "...", "description": "..." } ]
+    },
+    "week":  { "label": "本周", "items": [], "star_items": [] },
+    "month": { "label": "本月", "items": [], "star_items": [] },
     "year":  { "label": "今年", "items": [] }
   }
 }
 ```
+
+年度档没有 `star_items`（只有一个列表，`items` 即总星榜结果）。
 
 抓取失败时保留上一份文件（不会写出空数据）。
 

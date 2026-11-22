@@ -2,7 +2,12 @@
 """GitHub 热榜采集器。
 
 今日 / 本周 / 本月：抓 github.com/trending（原生 trending，带周期内新增星数）
-今年：走 Search API（created:>=365 天，按星数排序）
+今年：走 Search API（pushed:>=364 天，即过去一年有活跃提交，按总星数排序）
+
+每档产出两份列表：
+  items      = 周期新增星排序（热门榜）
+  star_items = 总星数排序（总星榜，候选池为 trending 全量条目）
+年度没有「期间增量」数据源，只有总星口径，故不产出 star_items。
 
 用法：python3 ghhot.py --out /srv/sitehub/data/ghhot.json
 环境变量：GITHUB_TOKEN（可选，仅影响年度搜索额度）
@@ -69,7 +74,7 @@ def parse_trending(page):
 
 def search_year(token):
     since = (dt.datetime.now(dt.timezone.utc).date() - dt.timedelta(days=364)).isoformat()
-    q = "created:>=%s fork:false archived:false stars:>=500" % since
+    q = "pushed:>=%s fork:false archived:false stars:>=500" % since
     url = API + "?" + urllib.parse.urlencode({"q": q, "sort": "stars", "order": "desc", "per_page": PER})
     headers = {"Accept": "application/vnd.github+json"}
     if token:
@@ -99,19 +104,30 @@ def main():
     for key, since, label in RANGES:
         try:
             if since:
-                items = parse_trending(get(TRENDING % since))
+                raw = parse_trending(get(TRENDING % since))
             else:
-                items = search_year(token)
+                raw = search_year(token)
         except Exception as e:
             print("%s failed: %s" % (key, e), file=sys.stderr)
-            items = []
-        items = items[:PER]
-        for i, it in enumerate(items, 1):
+            raw = []
+
+        # 热门榜：按周期新增星（trending 页面自身顺序即增量降序）
+        hot = raw[:PER]
+        for i, it in enumerate(hot, 1):
             it["rank"] = i
-        result["ranges"][key] = {"label": label, "items": items}
-        if items:
+
+        entry = {"label": label, "items": hot}
+
+        # 总星榜：候选池取 trending 全量条目（约 25 条）按总星重排，
+        # 而不是只在前 12 条里挪位——否则「总星榜」只是热门榜换个顺序。
+        if since and raw:
+            ranked = sorted(raw, key=lambda x: x.get("stars") or 0, reverse=True)[:PER]
+            entry["star_items"] = [dict(it, rank=i) for i, it in enumerate(ranked, 1)]
+
+        result["ranges"][key] = entry
+        if hot:
             ok += 1
-        print("%s: %d items" % (key, len(items)), flush=True)
+        print("%s: %d hot / %d star" % (key, len(hot), len(entry.get("star_items") or [])), flush=True)
         time.sleep(1.5)
 
     if ok == 0:
