@@ -1,5 +1,5 @@
 {
- "updated_at": 1795400698,
+ "updated_at": 1795499267,
  "ranges": {
   "day": {
    "label": "今日",
@@ -7,9 +7,9 @@
     {
      "full_name": "elementalsouls/Claude-BugHunter",
      "html_url": "https://github.com/elementalsouls/Claude-BugHunter",
-     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, pl",
-     "stars": 17961,
-     "gained": 1716,
+     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, pl",
+     "stars": 20106,
+     "gained": 2029,
      "language": "Python",
      "rank": 1
     },
@@ -17,8 +17,8 @@
      "full_name": "obra/superpowers",
      "html_url": "https://github.com/obra/superpowers",
      "description": "An agentic skills framework & software development methodology that works.",
-     "stars": 324214,
-     "gained": 788,
+     "stars": 325269,
+     "gained": 840,
      "language": "Shell",
      "rank": 2
     },
@@ -26,8 +26,8 @@
      "full_name": "HKUDS/CLI-Anything",
      "html_url": "https://github.com/HKUDS/CLI-Anything",
      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-     "stars": 62834,
-     "gained": 699,
+     "stars": 63920,
+     "gained": 790,
      "language": "Python",
      "rank": 3
     },
@@ -35,8 +35,8 @@
      "full_name": "jingyaogong/minimind",
      "html_url": "https://github.com/jingyaogong/minimind",
      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-     "stars": 68745,
-     "gained": 473,
+     "stars": 69661,
+     "gained": 828,
      "language": "Python",
      "rank": 4
     },
@@ -44,8 +44,8 @@
      "full_name": "cursor/plugins",
      "html_url": "https://github.com/cursor/plugins",
      "description": "Cursor plugin specification and official plugins",
-     "stars": 18481,
-     "gained": 294,
+     "stars": 18890,
+     "gained": 397,
      "language": "TypeScript",
      "rank": 5
     },
@@ -53,8 +53,8 @@
      "full_name": "firecrawl/firecrawl",
      "html_url": "https://github.com/firecrawl/firecrawl",
      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-     "stars": 207092,
-     "gained": 915,
+     "stars": 208118,
+     "gained": 924,
      "language": "TypeScript",
      "rank": 6
     },
@@ -62,8 +62,8 @@
      "full_name": "nginx/nginx",
      "html_url": "https://github.com/nginx/nginx",
      "description": "The official NGINX Open Source repository.",
-     "stars": 32897,
-     "gained": 163,
+     "stars": 33089,
+     "gained": 174,
      "language": "C",
      "rank": 7
     },
@@ -71,17 +71,17 @@
      "full_name": "openvinotoolkit/openvino",
      "html_url": "https://github.com/openvinotoolkit/openvino",
      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-     "stars": 12102,
-     "gained": 158,
+     "stars": 12325,
+     "gained": 184,
      "language": "C++",
      "rank": 8
     },
     {
      "full_name": "cathrynlavery/diagram-design",
      "html_url": "https://github.com/cathrynlavery/diagram-design",
-     "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-     "stars": 70352,
-     "gained": 518,
+     "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+     "stars": 71152,
+     "gained": 620,
      "language": "HTML",
      "rank": 9
     },
@@ -89,8 +89,8 @@
      "full_name": "mvanhorn/last30days-skill",
      "html_url": "https://github.com/mvanhorn/last30days-skill",
      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-     "stars": 72794,
-     "gained": 668,
+     "stars": 73590,
+     "gained": 797,
      "language": "Python",
      "rank": 10
     },
@@ -98,8 +98,8 @@
      "full_name": "google-labs-code/stitch-skills",
      "html_url": "https://github.com/google-labs-code/stitch-skills",
      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, ",
-     "stars": 11952,
-     "gained": 494,
+     "stars": 12394,
+     "gained": 422,
      "language": "TypeScript",
      "rank": 11
     },
@@ -107,8 +107,8 @@
      "full_name": "mjmirza/app-store-compliance",
      "html_url": "https://github.com/mjmirza/app-store-compliance",
      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks,",
-     "stars": 4043,
-     "gained": 621,
+     "stars": 5144,
+     "gained": 761,
      "language": "Shell",
      "rank": 12
     }
@@ -118,8 +118,8 @@
      "full_name": "obra/superpowers",
      "html_url": "https://github.com/obra/superpowers",
      "description": "An agentic skills framework & software development methodology that works.",
-     "stars": 324214,
-     "gained": 788,
+     "stars": 325269,
+     "gained": 840,
      "language": "Shell",
      "rank": 1
     },
@@ -127,8 +127,8 @@
      "full_name": "firecrawl/firecrawl",
      "html_url": "https://github.com/firecrawl/firecrawl",
      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-     "stars": 207092,
-     "gained": 915,
+     "stars": 208118,
+     "gained": 924,
      "language": "TypeScript",
      "rank": 2
     },
@@ -136,8 +136,8 @@
      "full_name": "toeverything/AFFiNE",
      "html_url": "https://github.com/toeverything/AFFiNE",
      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source",
-     "stars": 76863,
-     "gained": 542,
+     "stars": 77518,
+     "gained": 595,
      "language": "TypeScript",
      "rank": 3
     },
@@ -145,17 +145,17 @@
      "full_name": "mvanhorn/last30days-skill",
      "html_url": "https://github.com/mvanhorn/last30days-skill",
      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-     "stars": 72794,
-     "gained": 668,
+     "stars": 73590,
+     "gained": 797,
      "language": "Python",
      "rank": 4
     },
     {
      "full_name": "cathrynlavery/diagram-design",
      "html_url": "https://github.com/cathrynlavery/diagram-design",
-     "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-     "stars": 70352,
-     "gained": 518,
+     "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+     "stars": 71152,
+     "gained": 620,
      "language": "HTML",
      "rank": 5
     },
@@ -163,8 +163,8 @@
      "full_name": "jingyaogong/minimind",
      "html_url": "https://github.com/jingyaogong/minimind",
      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-     "stars": 68745,
-     "gained": 473,
+     "stars": 69661,
+     "gained": 828,
      "language": "Python",
      "rank": 6
     },
@@ -172,8 +172,8 @@
      "full_name": "HKUDS/CLI-Anything",
      "html_url": "https://github.com/HKUDS/CLI-Anything",
      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-     "stars": 62834,
-     "gained": 699,
+     "stars": 63920,
+     "gained": 790,
      "language": "Python",
      "rank": 7
     },
@@ -181,35 +181,35 @@
      "full_name": "nginx/nginx",
      "html_url": "https://github.com/nginx/nginx",
      "description": "The official NGINX Open Source repository.",
-     "stars": 32897,
-     "gained": 163,
+     "stars": 33089,
+     "gained": 174,
      "language": "C",
      "rank": 8
+    },
+    {
+     "full_name": "elementalsouls/Claude-BugHunter",
+     "html_url": "https://github.com/elementalsouls/Claude-BugHunter",
+     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, pl",
+     "stars": 20106,
+     "gained": 2029,
+     "language": "Python",
+     "rank": 9
     },
     {
      "full_name": "cursor/plugins",
      "html_url": "https://github.com/cursor/plugins",
      "description": "Cursor plugin specification and official plugins",
-     "stars": 18481,
-     "gained": 294,
+     "stars": 18890,
+     "gained": 397,
      "language": "TypeScript",
-     "rank": 9
-    },
-    {
-     "full_name": "elementalsouls/Claude-BugHunter",
-     "html_url": "https://github.com/elementalsouls/Claude-BugHunter",
-     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, pl",
-     "stars": 17961,
-     "gained": 1716,
-     "language": "Python",
      "rank": 10
     },
     {
      "full_name": "XiaoYouChR/Ghost-Downloader-3",
      "html_url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
      "description": "The only downloader you need. 下载器的集大成者。",
-     "stars": 15229,
-     "gained": 701,
+     "stars": 16563,
+     "gained": 1087,
      "language": "Python",
      "rank": 11
     },
@@ -217,8 +217,8 @@
      "full_name": "Tracer-Cloud/opensre",
      "html_url": "https://github.com/Tracer-Cloud/opensre",
      "description": "The open-source agent for CI/CD reliability.",
-     "stars": 14453,
-     "gained": 399,
+     "stars": 14900,
+     "gained": 436,
      "language": "Python",
      "rank": 12
     }
@@ -231,8 +231,8 @@
      "full_name": "backnotprop/plannotator",
      "html_url": "https://github.com/backnotprop/plannotator",
      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-     "stars": 14457,
-     "gained": 2815,
+     "stars": 14725,
+     "gained": 2395,
      "language": "TypeScript",
      "rank": 1
     },
@@ -240,8 +240,8 @@
      "full_name": "google-labs-code/stitch-skills",
      "html_url": "https://github.com/google-labs-code/stitch-skills",
      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, ",
-     "stars": 11952,
-     "gained": 2683,
+     "stars": 12394,
+     "gained": 2572,
      "language": "TypeScript",
      "rank": 2
     },
@@ -249,8 +249,8 @@
      "full_name": "GoogleChrome/modern-web-guidance-src",
      "html_url": "https://github.com/GoogleChrome/modern-web-guidance-src",
      "description": "Keep your coding agent up to date with the latest web best practices",
-     "stars": 10234,
-     "gained": 3575,
+     "stars": 10586,
+     "gained": 2694,
      "language": "TypeScript",
      "rank": 3
     },
@@ -258,8 +258,8 @@
      "full_name": "alibaba/open-code-review",
      "html_url": "https://github.com/alibaba/open-code-review",
      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-la",
-     "stars": 55434,
-     "gained": 3700,
+     "stars": 55807,
+     "gained": 3015,
      "language": "Go",
      "rank": 4
     },
@@ -267,8 +267,8 @@
      "full_name": "mvanhorn/last30days-skill",
      "html_url": "https://github.com/mvanhorn/last30days-skill",
      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-     "stars": 72794,
-     "gained": 4731,
+     "stars": 73590,
+     "gained": 5448,
      "language": "Python",
      "rank": 5
     },
@@ -276,8 +276,8 @@
      "full_name": "ChromeDevTools/chrome-devtools-mcp",
      "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
      "description": "Chrome DevTools for coding agents",
-     "stars": 58858,
-     "gained": 2268,
+     "stars": 59078,
+     "gained": 1581,
      "language": "TypeScript",
      "rank": 6
     },
@@ -285,8 +285,8 @@
      "full_name": "tradermonty/claude-trading-skills",
      "html_url": "https://github.com/tradermonty/claude-trading-skills",
      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-     "stars": 7805,
-     "gained": 2616,
+     "stars": 8137,
+     "gained": 1903,
      "language": "Python",
      "rank": 7
     },
@@ -294,8 +294,8 @@
      "full_name": "ag-ui-protocol/ag-ui",
      "html_url": "https://github.com/ag-ui-protocol/ag-ui",
      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-     "stars": 21212,
-     "gained": 3620,
+     "stars": 21433,
+     "gained": 2966,
      "language": "TypeScript",
      "rank": 8
     },
@@ -303,8 +303,8 @@
      "full_name": "meta/astryx",
      "html_url": "https://github.com/meta/astryx",
      "description": "An open source design system that's fully customizable and agent ready",
-     "stars": 32265,
-     "gained": 3626,
+     "stars": 32646,
+     "gained": 3165,
      "language": "TypeScript",
      "rank": 9
     },
@@ -312,8 +312,8 @@
      "full_name": "pookjw/HermesEnabler",
      "html_url": "https://github.com/pookjw/HermesEnabler",
      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
-     "stars": 2408,
-     "gained": 461,
+     "stars": 2460,
+     "gained": 390,
      "language": "Objective-C",
      "rank": 10
     },
@@ -321,8 +321,8 @@
      "full_name": "we-promise/sure",
      "html_url": "https://github.com/we-promise/sure",
      "description": "The personal finance app for everyone (by everyone)",
-     "stars": 17359,
-     "gained": 1771,
+     "stars": 17624,
+     "gained": 1612,
      "language": "Ruby",
      "rank": 11
     },
@@ -330,8 +330,8 @@
      "full_name": "dream-num/univer",
      "html_url": "https://github.com/dream-num/univer",
      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible o",
-     "stars": 31290,
-     "gained": 6436,
+     "stars": 31546,
+     "gained": 4324,
      "language": "TypeScript",
      "rank": 12
     }
@@ -341,8 +341,8 @@
      "full_name": "mvanhorn/last30days-skill",
      "html_url": "https://github.com/mvanhorn/last30days-skill",
      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-     "stars": 72794,
-     "gained": 4731,
+     "stars": 73590,
+     "gained": 5448,
      "language": "Python",
      "rank": 1
     },
@@ -350,8 +350,8 @@
      "full_name": "ChromeDevTools/chrome-devtools-mcp",
      "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
      "description": "Chrome DevTools for coding agents",
-     "stars": 58858,
-     "gained": 2268,
+     "stars": 59078,
+     "gained": 1581,
      "language": "TypeScript",
      "rank": 2
     },
@@ -359,8 +359,8 @@
      "full_name": "alibaba/open-code-review",
      "html_url": "https://github.com/alibaba/open-code-review",
      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-la",
-     "stars": 55434,
-     "gained": 3700,
+     "stars": 55807,
+     "gained": 3015,
      "language": "Go",
      "rank": 3
     },
@@ -368,8 +368,8 @@
      "full_name": "meta/astryx",
      "html_url": "https://github.com/meta/astryx",
      "description": "An open source design system that's fully customizable and agent ready",
-     "stars": 32265,
-     "gained": 3626,
+     "stars": 32646,
+     "gained": 3165,
      "language": "TypeScript",
      "rank": 4
     },
@@ -377,8 +377,8 @@
      "full_name": "dream-num/univer",
      "html_url": "https://github.com/dream-num/univer",
      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible o",
-     "stars": 31290,
-     "gained": 6436,
+     "stars": 31546,
+     "gained": 4324,
      "language": "TypeScript",
      "rank": 5
     },
@@ -386,8 +386,8 @@
      "full_name": "ag-ui-protocol/ag-ui",
      "html_url": "https://github.com/ag-ui-protocol/ag-ui",
      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-     "stars": 21212,
-     "gained": 3620,
+     "stars": 21433,
+     "gained": 2966,
      "language": "TypeScript",
      "rank": 6
     },
@@ -395,8 +395,8 @@
      "full_name": "we-promise/sure",
      "html_url": "https://github.com/we-promise/sure",
      "description": "The personal finance app for everyone (by everyone)",
-     "stars": 17359,
-     "gained": 1771,
+     "stars": 17624,
+     "gained": 1612,
      "language": "Ruby",
      "rank": 7
     },
@@ -404,8 +404,8 @@
      "full_name": "backnotprop/plannotator",
      "html_url": "https://github.com/backnotprop/plannotator",
      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-     "stars": 14457,
-     "gained": 2815,
+     "stars": 14725,
+     "gained": 2395,
      "language": "TypeScript",
      "rank": 8
     },
@@ -413,8 +413,8 @@
      "full_name": "google-labs-code/stitch-skills",
      "html_url": "https://github.com/google-labs-code/stitch-skills",
      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, ",
-     "stars": 11952,
-     "gained": 2683,
+     "stars": 12394,
+     "gained": 2572,
      "language": "TypeScript",
      "rank": 9
     },
@@ -422,8 +422,8 @@
      "full_name": "GoogleChrome/modern-web-guidance-src",
      "html_url": "https://github.com/GoogleChrome/modern-web-guidance-src",
      "description": "Keep your coding agent up to date with the latest web best practices",
-     "stars": 10234,
-     "gained": 3575,
+     "stars": 10586,
+     "gained": 2694,
      "language": "TypeScript",
      "rank": 10
     },
@@ -431,8 +431,8 @@
      "full_name": "kajisho5/ffmpeg-skill",
      "html_url": "https://github.com/kajisho5/ffmpeg-skill",
      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platf",
-     "stars": 9773,
-     "gained": 3748,
+     "stars": 10332,
+     "gained": 3891,
      "language": "Python",
      "rank": 11
     },
@@ -440,8 +440,8 @@
      "full_name": "tradermonty/claude-trading-skills",
      "html_url": "https://github.com/tradermonty/claude-trading-skills",
      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-     "stars": 7805,
-     "gained": 2616,
+     "stars": 8137,
+     "gained": 1903,
      "language": "Python",
      "rank": 12
     }
@@ -454,8 +454,8 @@
      "full_name": "Nutlope/hallmark",
      "html_url": "https://github.com/Nutlope/hallmark",
      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-     "stars": 59569,
-     "gained": 29000,
+     "stars": 60188,
+     "gained": 29144,
      "language": "CSS",
      "rank": 1
     },
@@ -463,8 +463,8 @@
      "full_name": "cloudflare/security-audit-skill",
      "html_url": "https://github.com/cloudflare/security-audit-skill",
      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-     "stars": 77125,
-     "gained": 39307,
+     "stars": 77626,
+     "gained": 36869,
      "language": "JavaScript",
      "rank": 2
     },
@@ -472,8 +472,8 @@
      "full_name": "milind-soni/OpenMausBot",
      "html_url": "https://github.com/milind-soni/OpenMausBot",
      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-     "stars": 26870,
-     "gained": 21485,
+     "stars": 27261,
+     "gained": 21809,
      "language": "TypeScript",
      "rank": 3
     },
@@ -481,8 +481,8 @@
      "full_name": "pingdotgg/t3code",
      "html_url": "https://github.com/pingdotgg/t3code",
      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-     "stars": 71859,
-     "gained": 41514,
+     "stars": 75466,
+     "gained": 44453,
      "language": "TypeScript",
      "rank": 4
     },
@@ -490,8 +490,8 @@
      "full_name": "anthropics/skills",
      "html_url": "https://github.com/anthropics/skills",
      "description": "Public repository for Agent Skills",
-     "stars": 199045,
-     "gained": 16473,
+     "stars": 199573,
+     "gained": 16727,
      "language": "Python",
      "rank": 5
     },
@@ -499,8 +499,8 @@
      "full_name": "thedotmack/claude-mem",
      "html_url": "https://github.com/thedotmack/claude-mem",
      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessi",
-     "stars": 119106,
-     "gained": 17416,
+     "stars": 119372,
+     "gained": 17492,
      "language": "TypeScript",
      "rank": 6
     },
@@ -508,8 +508,8 @@
      "full_name": "Jakeschincariol/instagram-agent-skill",
      "html_url": "https://github.com/Jakeschincariol/instagram-agent-skill",
      "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
-     "stars": 8335,
-     "gained": 5773,
+     "stars": 8716,
+     "gained": 6023,
      "language": "Python",
      "rank": 7
     },
@@ -517,8 +517,8 @@
      "full_name": "backnotprop/plannotator",
      "html_url": "https://github.com/backnotprop/plannotator",
      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-     "stars": 14457,
-     "gained": 4793,
+     "stars": 14725,
+     "gained": 5093,
      "language": "TypeScript",
      "rank": 8
     },
@@ -526,35 +526,35 @@
      "full_name": "HKUDS/DeepTutor",
      "html_url": "https://github.com/HKUDS/DeepTutor",
      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-     "stars": 61641,
-     "gained": 19718,
+     "stars": 62019,
+     "gained": 19919,
      "language": "Python",
      "rank": 9
+    },
+    {
+     "full_name": "yetone/magpie",
+     "html_url": "https://github.com/yetone/magpie",
+     "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+     "stars": 40648,
+     "gained": 20747,
+     "language": "Go",
+     "rank": 10
     },
     {
      "full_name": "pbakaus/impeccable",
      "html_url": "https://github.com/pbakaus/impeccable",
      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-     "stars": 115069,
-     "gained": 30634,
+     "stars": 115762,
+     "gained": 30675,
      "language": "Rust",
-     "rank": 10
+     "rank": 11
     },
     {
      "full_name": "sherlock-project/sherlock",
      "html_url": "https://github.com/sherlock-project/sherlock",
      "description": "Hunt down social media accounts by username across social networks",
-     "stars": 115902,
-     "gained": 21408,
-     "language": "Python",
-     "rank": 11
-    },
-    {
-     "full_name": "AgriciDaniel/claude-seo",
-     "html_url": "https://github.com/AgriciDaniel/claude-seo",
-     "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt)",
-     "stars": 31667,
-     "gained": 12006,
+     "stars": 116433,
+     "gained": 21780,
      "language": "Python",
      "rank": 12
     }
@@ -564,8 +564,8 @@
      "full_name": "anthropics/skills",
      "html_url": "https://github.com/anthropics/skills",
      "description": "Public repository for Agent Skills",
-     "stars": 199045,
-     "gained": 16473,
+     "stars": 199573,
+     "gained": 16727,
      "language": "Python",
      "rank": 1
     },
@@ -573,8 +573,8 @@
      "full_name": "thedotmack/claude-mem",
      "html_url": "https://github.com/thedotmack/claude-mem",
      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessi",
-     "stars": 119106,
-     "gained": 17416,
+     "stars": 119372,
+     "gained": 17492,
      "language": "TypeScript",
      "rank": 2
     },
@@ -582,8 +582,8 @@
      "full_name": "sherlock-project/sherlock",
      "html_url": "https://github.com/sherlock-project/sherlock",
      "description": "Hunt down social media accounts by username across social networks",
-     "stars": 115902,
-     "gained": 21408,
+     "stars": 116433,
+     "gained": 21780,
      "language": "Python",
      "rank": 3
     },
@@ -591,8 +591,8 @@
      "full_name": "pbakaus/impeccable",
      "html_url": "https://github.com/pbakaus/impeccable",
      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-     "stars": 115069,
-     "gained": 30634,
+     "stars": 115762,
+     "gained": 30675,
      "language": "Rust",
      "rank": 4
     },
@@ -600,8 +600,8 @@
      "full_name": "heygen-com/hyperframes",
      "html_url": "https://github.com/heygen-com/hyperframes",
      "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
-     "stars": 88319,
-     "gained": 18847,
+     "stars": 89081,
+     "gained": 18679,
      "language": "TypeScript",
      "rank": 5
     },
@@ -609,8 +609,8 @@
      "full_name": "cloudflare/security-audit-skill",
      "html_url": "https://github.com/cloudflare/security-audit-skill",
      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-     "stars": 77125,
-     "gained": 39307,
+     "stars": 77626,
+     "gained": 36869,
      "language": "JavaScript",
      "rank": 6
     },
@@ -618,8 +618,8 @@
      "full_name": "pingdotgg/t3code",
      "html_url": "https://github.com/pingdotgg/t3code",
      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-     "stars": 71859,
-     "gained": 41514,
+     "stars": 75466,
+     "gained": 44453,
      "language": "TypeScript",
      "rank": 7
     },
@@ -627,8 +627,8 @@
      "full_name": "HKUDS/DeepTutor",
      "html_url": "https://github.com/HKUDS/DeepTutor",
      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-     "stars": 61641,
-     "gained": 19718,
+     "stars": 62019,
+     "gained": 19919,
      "language": "Python",
      "rank": 8
     },
@@ -636,8 +636,8 @@
      "full_name": "Nutlope/hallmark",
      "html_url": "https://github.com/Nutlope/hallmark",
      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-     "stars": 59569,
-     "gained": 29000,
+     "stars": 60188,
+     "gained": 29144,
      "language": "CSS",
      "rank": 9
     },
@@ -645,27 +645,27 @@
      "full_name": "vercel-labs/agent-browser",
      "html_url": "https://github.com/vercel-labs/agent-browser",
      "description": "Browser automation CLI for AI agents",
-     "stars": 53437,
-     "gained": 9083,
+     "stars": 53653,
+     "gained": 9273,
      "language": "Rust",
      "rank": 10
+    },
+    {
+     "full_name": "yetone/magpie",
+     "html_url": "https://github.com/yetone/magpie",
+     "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+     "stars": 40648,
+     "gained": 20747,
+     "language": "Go",
+     "rank": 11
     },
     {
      "full_name": "AgriciDaniel/claude-seo",
      "html_url": "https://github.com/AgriciDaniel/claude-seo",
      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt)",
-     "stars": 31667,
-     "gained": 12006,
+     "stars": 31975,
+     "gained": 12148,
      "language": "Python",
-     "rank": 11
-    },
-    {
-     "full_name": "milind-soni/OpenMausBot",
-     "html_url": "https://github.com/milind-soni/OpenMausBot",
-     "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-     "stars": 26870,
-     "gained": 21485,
-     "language": "TypeScript",
      "rank": 12
     }
    ]
@@ -677,7 +677,7 @@
      "full_name": "codecrafters-io/build-your-own-x",
      "html_url": "https://github.com/codecrafters-io/build-your-own-x",
      "description": "Master programming by recreating your favorite technologies from scratch.",
-     "stars": 564761,
+     "stars": 565061,
      "gained": null,
      "language": "Markdown",
      "rank": 1
@@ -686,7 +686,7 @@
      "full_name": "sindresorhus/awesome",
      "html_url": "https://github.com/sindresorhus/awesome",
      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-     "stars": 541150,
+     "stars": 541808,
      "gained": null,
      "language": "",
      "rank": 2
@@ -695,7 +695,7 @@
      "full_name": "public-apis/public-apis",
      "html_url": "https://github.com/public-apis/public-apis",
      "description": "A collective list of free APIs",
-     "stars": 500868,
+     "stars": 501088,
      "gained": null,
      "language": "Python",
      "rank": 3
@@ -704,7 +704,7 @@
      "full_name": "morluto/rea",
      "html_url": "https://github.com/morluto/rea",
      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-     "stars": 474201,
+     "stars": 475909,
      "gained": null,
      "language": "TypeScript",
      "rank": 4
@@ -713,7 +713,7 @@
      "full_name": "freeCodeCamp/freeCodeCamp",
      "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-     "stars": 459508,
+     "stars": 459545,
      "gained": null,
      "language": "TypeScript",
      "rank": 5
@@ -722,7 +722,7 @@
      "full_name": "EbookFoundation/free-programming-books",
      "html_url": "https://github.com/EbookFoundation/free-programming-books",
      "description": ":books: Freely available programming books",
-     "stars": 402086,
+     "stars": 402157,
      "gained": null,
      "language": "Python",
      "rank": 6
@@ -731,7 +731,7 @@
      "full_name": "openclaw/openclaw",
      "html_url": "https://github.com/openclaw/openclaw",
      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-     "stars": 395062,
+     "stars": 395125,
      "gained": null,
      "language": "TypeScript",
      "rank": 7
@@ -740,7 +740,7 @@
      "full_name": "donnemartin/system-design-primer",
      "html_url": "https://github.com/donnemartin/system-design-primer",
      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-     "stars": 378841,
+     "stars": 378966,
      "gained": null,
      "language": "Python",
      "rank": 8
@@ -749,7 +749,7 @@
      "full_name": "nilbuild/developer-roadmap",
      "html_url": "https://github.com/nilbuild/developer-roadmap",
      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-     "stars": 372587,
+     "stars": 372655,
      "gained": null,
      "language": "TypeScript",
      "rank": 9
@@ -758,7 +758,7 @@
      "full_name": "jwasham/coding-interview-university",
      "html_url": "https://github.com/jwasham/coding-interview-university",
      "description": "A complete computer science study plan to become a software engineer.",
-     "stars": 364810,
+     "stars": 364897,
      "gained": null,
      "language": "",
      "rank": 10
@@ -767,7 +767,7 @@
      "full_name": "awesome-selfhosted/awesome-selfhosted",
      "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-     "stars": 339583,
+     "stars": 339955,
      "gained": null,
      "language": "",
      "rank": 11
@@ -776,7 +776,7 @@
      "full_name": "vinta/awesome-python",
      "html_url": "https://github.com/vinta/awesome-python",
      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-     "stars": 336498,
+     "stars": 336754,
      "gained": null,
      "language": "Python",
      "rank": 12
